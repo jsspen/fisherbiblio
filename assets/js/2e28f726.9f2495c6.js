@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfisherbiblio=self.webpackChunkfisherbiblio||[]).push([[5205],{6437:l=>{l.exports=JSON.parse('{"label":"hola","permalink":"/fisherbiblio/blog/tags/hola","allTagsPath":"/fisherbiblio/blog/tags","count":1}')}}]);
