@@ -19,6 +19,7 @@ jobs:
           cache: yarn
 
       - name: Install dependencies
+        working-directory: fisherbiblio
         run: yarn install --frozen-lockfile
       - name: Build website
         working-directory: fisherbiblio
